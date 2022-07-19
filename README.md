@@ -4,13 +4,16 @@ I have tried learning from videos ans books but I think I learn best in bite siz
 
 Links on the top are newer (At this time, 2022) I will link to older links under for interesting stuff.
 
-Elixir
+Elixir<br />
 https://medium.com/dev-genius/5-elixir-libraries-i-install-on-every-new-project-a76fae7241a1<br />
 https://elixirstatus.com/ (Lots of different random stuff)<br />
+https://experimentingwithcode.com/code-hygiene-with-elixir-part-1/ (Hygene)<br />
 
-Phoenix
+
+Phoenix<br />
 https://hexdocs.pm/phoenix/Phoenix.html (Official Docs)<br />
 https://experimentingwithcode.com/using-tailwind-in-phoenix/ (Tailwind in Phoenix)<br />
+https://experimentingwithcode.com/phoenix-authentication-with-phx-gen-auth-part-1/ (Authentication)<br />
 
 Live View<br />
 https://blog.appsignal.com/2022/06/14/a-guide-to-phoenix-liveview-assigns.html <br />
