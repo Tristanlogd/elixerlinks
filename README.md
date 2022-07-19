@@ -10,6 +10,7 @@ Phoenix
 
 Live View
 https://blog.appsignal.com/2022/06/14/a-guide-to-phoenix-liveview-assigns.html
+
 https://betterprogramming.pub/real-time-chat-with-phoenix-liveview-in-fewer-than-50-lines-of-code-1b2cf8af7301
 
 Older Links
